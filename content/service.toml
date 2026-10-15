@@ -1,0 +1,15 @@
+type = "card"
+title = "Service"
+
+[[items]]
+title = "Conference Reviewer"
+subtitle = "IJCAI 2026"
+content = "Reviewed research submissions in computer vision and multimedia."
+
+[[items]]
+title = "IJCAI 2026 Interview: Action-Guided Computation for Faster VLA"
+subtitle = "AI Technology Review · GAIR Paper 125"
+date = "2026.08.26"
+content = "Interviewed as the first author of AC²-VLA about action-context-aware adaptive computation for VLA inference."
+link = "https://m.leiphone.com/category/private/hJ6IDm4NImDU3590.html"
+link_label = "Read interview"

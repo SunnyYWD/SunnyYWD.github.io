@@ -1,0 +1,57 @@
+[site]
+title = "Wenda Yu"
+description = "Wenda Yu — embodied intelligence, efficient vision-language-action models, and runtime safeguarding."
+favicon = "/favicon.svg"
+last_updated = "October 15, 2026"
+
+[author]
+name = "Wenda Yu"
+title = "Incoming CS PhD Student (2027)"
+institution = "Shanghai Jiao Tong University"
+avatar = "/profile-photo.jpg"
+
+[social]
+email = "yu_wenda@126.com"
+location = "Shanghai Jiao Tong University"
+location_details = ["Shanghai Jiao Tong University"]
+github = "https://github.com/SunnyYWD"
+
+[features]
+enable_likes = false
+enable_one_page_mode = true
+
+[i18n]
+enabled = false
+locales = ["en"]
+default_locale = "en"
+mode = "fixed"
+fixed_locale = "en"
+persist = false
+switcher = false
+
+[i18n.labels]
+en = "English"
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Service"
+type = "page"
+target = "service"
+href = "/#service"
+
+[[navigation]]
+title = "Projects"
+type = "page"
+target = "projects"
+href = "/projects"

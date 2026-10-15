@@ -1,0 +1,15 @@
+[[news]]
+date = "2026.10"
+content = "Our MorphAct preprint was released on arXiv, introducing context-dependent parameter updates for robot policies."
+
+[[news]]
+date = "2026.08"
+content = "Interviewed by AI Technology Review about AC²-VLA and action-guided VLA inference."
+
+[[news]]
+date = "2026.07"
+content = "Released the ActFovea preprint on arXiv, presenting a plug-and-play runtime safeguard for VLA policies."
+
+[[news]]
+date = "2026.05"
+content = "AC²-VLA paper was accepted by IJCAI 2026."

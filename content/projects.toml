@@ -1,0 +1,57 @@
+type = "card"
+title = "Projects"
+description = "From robotics research to personal agents and applications."
+
+[[items]]
+title = "AC²-VLA"
+subtitle = "VLA · Efficiency · Adaptive Computation"
+content = "Action-context-aware adaptive computation for efficient VLA inference, with token pruning, layer routing, and cache reuse."
+tags = ["CogACT","SIMPLER","CUDA"]
+link = "https://github.com/SunnyYWD/AC-2-VLA.git"
+
+[[items]]
+title = "ActFovea"
+subtitle = "VLA · Runtime Safety · Robustness"
+content = "A plug-and-play runtime safeguard that detects spatiotemporal visual-action inconsistencies, recovers trustworthy observations, verifies action chunks, and safely suppresses motion when recovery is not justified."
+tags = ["VLA","Safety","LIBERO"]
+link = "https://arxiv.org/abs/2607.29169"
+
+[[items]]
+title = "Me Agent"
+subtitle = "Personal Agent · Memory · iOS"
+content = "A personal AI agent concept centered on long-term memory, contextual assistance, voice capture, collections, and mobile-first interaction."
+tags = ["iOS","Memory","Tools"]
+link = "https://sunnyywd.github.io/Me-Agent-support"
+
+[[items]]
+title = "CareerPilot"
+subtitle = "LLM · Matching · HR Platform"
+content = "An AI-driven recruiting platform prototype for semantic person-job matching, explainable candidate scoring, and HR-side workflows."
+tags = ["Vue","LLM","Matching"]
+link = "https://github.com/SunnyYWD/CareerPilot.git"
+
+[[items]]
+title = "Phantom CleanView"
+subtitle = "Video Editing · 3D Optical Flow"
+content = "An intelligent video object removal system guided by 3D optical-flow edges and point-cloud motion estimation, supporting target erasure and voice control."
+tags = ["YOLOv8","E2FGVI","Streamlit"]
+
+[[items]]
+title = "JiSpeed"
+subtitle = "Delivery Platform · Backend"
+content = "A full-stack food delivery and management platform covering ordering, merchant operations, rider dispatching, settlement, anomaly detection, and data visualization."
+tags = ["Spring Boot","Redis","Vue"]
+link = "https://github.com/SunnyYWD/JiSpeed"
+
+[[items]]
+title = "LeWan"
+subtitle = "Elderly Care · WeChat Mini Program"
+content = "A health companion mini program for elderly users, integrating medication reminders, health journals, SOS assistance, speech recognition, and LLM-based intent understanding."
+tags = ["WXML","ASR","DeepSeek"]
+
+[[items]]
+title = "Farm Life Simulator"
+subtitle = "Game Development · Cocos2d-x"
+content = "A Stardew Valley-inspired farming simulation game with crop planting, animal raising, resident interactions, festival activities, skill systems, and farm mechanics."
+tags = ["C++","Cocos2d-x","Python"]
+link = "https://github.com/SunnyYWD/StarDewValleyGame"
